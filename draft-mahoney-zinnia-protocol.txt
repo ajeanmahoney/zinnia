@@ -2,14 +2,14 @@
 
 
 
-WG Working Group                                              Y. N. Here
-Internet-Draft                                    Your Organization Here
+zinnia                                                        J. Mahoney
+Internet-Draft                                     RFC Production Center
 Intended status: Informational                           29 October 2025
 Expires: 2 May 2026
 
 
-                           TODO - Your title
-                  draft-todo-yourname-protocol-latest
+                            Zinnia Protocol
+                  draft-mahoney-zinnia-protocol-latest
 
 Abstract
 
@@ -21,7 +21,7 @@ About This Document
 
    The latest revision of this draft can be found at
    https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-todo-yourname-
+   be found at https://datatracker.ietf.org/doc/draft-mahoney-zinnia-
    protocol/.
 
    Discussion of this document takes place on the WG Working Group
@@ -29,7 +29,7 @@ About This Document
    https://example.com/WG.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/ajeanmahoney/zinnia.
 
 Status of This Memo
 
@@ -109,6 +109,6 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
-   Your Organization Here
-   Email: your.email@example.com
+   Jean Mahoney
+   RFC Production Center
+   Email: jmahoney@staff.rfc-editor.org
