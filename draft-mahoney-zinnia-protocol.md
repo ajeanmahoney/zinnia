@@ -19,18 +19,18 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Zinnia Protocol"
+abbrev: "Zinnia Protocol"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-mahoney-zinnia-protocol-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: ART
+workgroup: zinnia
 keyword:
  - next generation
  - unicorn
@@ -40,14 +40,14 @@ venue:
   type: Working Group
   mail: WG@example.com
   arch: https://example.com/WG
-  github: USER/REPO
+  github: ajeanmahoney/zinnia
   latest: https://example.com/LATEST
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    fullname: Jean Mahoney
+    organization: RFC Production Center
+    email: jmahoney@staff.rfc-editor.org
 
 normative:
 
