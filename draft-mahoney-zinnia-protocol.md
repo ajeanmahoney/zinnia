@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: ART
-workgroup: zinnia
+# area: ART
+# workgroup: zinnia
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: ajeanmahoney/zinnia
-  latest: https://example.com/LATEST
+#  group: WG
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
+  github: "ajeanmahoney/zinnia"
+  latest: "https://ajeanmahoney.github.io/zinnia/draft-mahoney-zinnia-protocol.html"
 
 author:
  -
