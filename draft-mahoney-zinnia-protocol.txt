@@ -2,10 +2,10 @@
 
 
 
-zinnia                                                        J. Mahoney
+Network Working Group                                         J. Mahoney
 Internet-Draft                                     RFC Production Center
-Intended status: Informational                           29 October 2025
-Expires: 2 May 2026
+Intended status: Informational                             19 March 2026
+Expires: 20 September 2026
 
 
                             Zinnia Protocol
@@ -13,20 +13,16 @@ Expires: 2 May 2026
 
 Abstract
 
-   TODO Abstract
+   This is a test.  Only a test.
 
 About This Document
 
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-mahoney-zinnia-
-   protocol/.
-
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   https://ajeanmahoney.github.io/zinnia/draft-mahoney-zinnia-
+   protocol.html.  Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-mahoney-zinnia-protocol/.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/ajeanmahoney/zinnia.
@@ -46,11 +42,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 2 May 2026.
+   This Internet-Draft will expire on 20 September 2026.
 
 Copyright Notice
 
-   Copyright (c) 2025 IETF Trust and the persons identified as the
+   Copyright (c) 2026 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
