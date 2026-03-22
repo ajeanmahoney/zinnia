@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-03-19T01:06:19.970243+00:00",
+  "timestamp": "2026-03-22T01:06:00.569751+00:00",
   "repo": "ajeanmahoney/zinnia",
   "labels": [
     {
@@ -50,5 +50,62 @@
     }
   ],
   "issues": [],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOQLivF87L9jPy",
+      "title": "Update abstract section with test content",
+      "url": "https://github.com/ajeanmahoney/zinnia/pull/1",
+      "state": "MERGED",
+      "author": "ajeanmahoney",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-03-19T20:27:10Z",
+      "updatedAt": "2026-03-19T20:27:47Z",
+      "baseRepository": "ajeanmahoney/zinnia",
+      "baseRefName": "main",
+      "baseRefOid": "b21a2617aba199ac746c3418aa87d0dec44b3a31",
+      "headRepository": "ajeanmahoney/zinnia",
+      "headRefName": "ajeanmahoney-patch-1",
+      "headRefOid": "77d75677a9e75bf9320b108e160603489643ef70",
+      "closedAt": "2026-03-19T20:27:47Z",
+      "mergedAt": "2026-03-19T20:27:47Z",
+      "mergedBy": "ajeanmahoney",
+      "mergeCommit": {
+        "oid": "7b8e7ac4f00e05bbf1d9b2e1bae408292bf3ff9d"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOQLivF87L9k33",
+      "title": "Revert \"Update abstract section with test content\"",
+      "url": "https://github.com/ajeanmahoney/zinnia/pull/2",
+      "state": "MERGED",
+      "author": "ajeanmahoney",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Reverts ajeanmahoney/zinnia#1\r\n\r\nYay?",
+      "createdAt": "2026-03-19T20:28:51Z",
+      "updatedAt": "2026-03-19T20:29:15Z",
+      "baseRepository": "ajeanmahoney/zinnia",
+      "baseRefName": "main",
+      "baseRefOid": "7b8e7ac4f00e05bbf1d9b2e1bae408292bf3ff9d",
+      "headRepository": "ajeanmahoney/zinnia",
+      "headRefName": "revert-1-ajeanmahoney-patch-1",
+      "headRefOid": "65421785d8e9cfe978fdd641956264248b9d496b",
+      "closedAt": "2026-03-19T20:29:15Z",
+      "mergedAt": "2026-03-19T20:29:15Z",
+      "mergedBy": "ajeanmahoney",
+      "mergeCommit": {
+        "oid": "28cbcafb706baa3335f8e0fc33779af7fc956210"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
