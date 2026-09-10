@@ -4,8 +4,8 @@
 
 Network Working Group                                         J. Mahoney
 Internet-Draft                                     RFC Production Center
-Intended status: Informational                             19 March 2026
-Expires: 20 September 2026
+Intended status: Informational                         10 September 2026
+Expires: 14 March 2027
 
 
                             Zinnia Protocol
@@ -13,7 +13,7 @@ Expires: 20 September 2026
 
 Abstract
 
-   TODO Abstract
+   This abstract is very abstract.
 
 About This Document
 
@@ -42,7 +42,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 20 September 2026.
+   This Internet-Draft will expire on 14 March 2027.
 
 Copyright Notice
 
